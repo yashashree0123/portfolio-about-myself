@@ -1,0 +1,43 @@
+body{
+    text-align: center; 
+    background-color:#bd95ed;
+}
+
+h1{
+
+    background-color:#9d64e3 ;
+    color:black;
+}
+
+#album{
+    border-style: dashed;
+    border-radius: 200px;
+    border-color: black;
+    border-width: 10px;
+    padding:10px;
+    width: 800px;
+    height: 800px;
+}
+
+
+#btn{
+    border-style: dashed;
+    border-radius: 30px;
+    border-color: black;
+    border-width: 3x;
+    width: 100px;
+}
+
+
+
+
+p{
+    
+    border-color: black;
+    border-width: 10px;
+    padding:10px;
+    width: 800px;
+    height: 800px;
+
+text-align: center;
+}
